@@ -1,0 +1,7 @@
+
+‚
+java:S4165!"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©èÚşÿÿÿÿ8Ëäšåµ1
+i
+java:S1117'"GRename "paymentOrderMapping" which hides the field declared at line 17.(„Úíÿÿÿÿÿ8‘É¼Ì½1
+Q
+java:S1656!"/Remove or correct this useless self-assignment.(£©èÚşÿÿÿÿ8Ñäšåµ1

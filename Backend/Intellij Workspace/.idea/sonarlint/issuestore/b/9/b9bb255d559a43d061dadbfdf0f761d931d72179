@@ -1,0 +1,11 @@
+
+e
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8÷Ã‡Ÿ³1
+m
+java:S1128"PRemove this unused import 'org.springframework.core.ParameterizedTypeReference'.(©ç8÷Ã‡Ÿ³1
+W
+java:S1128"5Remove this unused import 'org.springframework.http'.(çôø·ûÿÿÿÿ8øÃ‡Ÿ³1
+j
+java:S1128	"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ8øÃ‡Ÿ³1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8øÃ‡Ÿ³1
